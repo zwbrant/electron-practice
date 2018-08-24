@@ -1,0 +1,22 @@
+{
+  "name": "electron-practice",
+  "version": "1.0.0",
+  "description": "electron practice",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwbrant/electron-practice.git"
+  },
+  "author": "Zane Brant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwbrant/electron-practice/issues"
+  },
+  "homepage": "https://github.com/zwbrant/electron-practice#readme",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  }
+}
